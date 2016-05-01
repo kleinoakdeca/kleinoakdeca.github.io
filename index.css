@@ -1,0 +1,28 @@
+
+body {
+
+        background-repeat: no-repeat;
+        background-size: cover;
+
+
+}
+
+@font-face{
+    font-family: Alien;
+    src: url(alien.ttf);
+
+
+}
+#welcome{
+        position: absolute;
+        top: 200px;
+        left: 125px;
+
+}
+
+#welcome p{
+
+        font-family: Alien;
+        font-size: 100px;
+}
+
