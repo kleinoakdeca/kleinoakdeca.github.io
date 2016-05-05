@@ -12,8 +12,7 @@
 .flip-container, .front, .back {
 	width: 320px;
 	height: 480px;
-	top: 100px;
-    left: 100px;
+
 
 }
 
@@ -30,8 +29,8 @@
 	backface-visibility: hidden;
 
 	position: absolute;
-	top: 0;
-	left: 0;
+	top: 100px;
+	left: 100px;
 }
 
 /* front pane, placed above back */
