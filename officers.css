@@ -41,6 +41,7 @@
 	transform: rotateY(0deg);
 	background: lightblue;
 	top: 200px;
+	left: 200px;
 
 }
 
@@ -49,5 +50,7 @@
 	transform: rotateY(180deg);
 	background: green;
 	top: 200px;
+	left: 200px;
+	left: 200px; 
 
 }
