@@ -10,6 +10,7 @@
 .flip-container, .front, .back {
 	width: 320px;
 	height: 480px;
+	color: blue;
 }
 
 /* flip speed goes here */
