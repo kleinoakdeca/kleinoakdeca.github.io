@@ -12,6 +12,7 @@
 .flip-container, .front, .back {
 	width: 320px;
 	height: 480px;
+	top: 200px;
 
 
 }
@@ -29,8 +30,8 @@
 	backface-visibility: hidden;
 
 	position: absolute;
-	top: 100px;
-	left: 100px;
+	top: 200px;
+
 }
 
 /* front pane, placed above back */
@@ -39,10 +40,13 @@
 	/* for firefox 31 */
 	transform: rotateY(0deg);
 	background: lightblue;
+	top: 200px;
+
 }
 
 /* back, initially hidden pane */
 .back {
 	transform: rotateY(180deg);
 	background: green;
+	top: 200px;
 }
