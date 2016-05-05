@@ -30,7 +30,7 @@
 	backface-visibility: hidden;
 
 	position: absolute;
-	top: 200px;
+
 
 }
 
@@ -40,7 +40,7 @@
 	/* for firefox 31 */
 	transform: rotateY(0deg);
 	background: lightblue;
-
+	top: 200px;
 
 }
 
