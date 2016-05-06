@@ -15,7 +15,7 @@ body {
 }
 #welcome{
         position: absolute;
-        top: 250px;
+        top: 200px;
         left: 125px;
 
 }
@@ -28,7 +28,7 @@ body {
 }
  #logo{
     position: relative;
-    top: 200px;
+    top: 250px;
     left: 125px;
 
  }
