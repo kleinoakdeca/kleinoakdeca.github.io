@@ -3,60 +3,12 @@
 @font-face{
     font-family: Fragment;
     src: url(fragment.otf);
+)
 
-
-
-#officers{
-    font-family: Fragment;
-    font-size: 15px;
-
-}
-
-#Weeber{
-
-       position: absolute;
-       top: 200px;
-       left 200px;
-       border-style: solid;
-       border-color: black;
-       border-width: 3px;
+#Carlos{
+    position: absolute;
+    top: 300px;
+    left:200px;
 
 }
-
-#Modh{
-
-
-
-
-}
-
-
-#Nguyen{
-
-
-}
-
-#Ash{
-}
-
-#HoodaK{
-}
-
-#HoodaA{
-}
-
-#Momin{
-}
-
-#Ajani{
-}
-
-#Ravi{
-}
-
-#Chappidi{
-}
-
-
-
 
