@@ -27,8 +27,8 @@ body {
 }
  #logo{
     position: relative;  
-    top: 275px;
-    left: 50px;
+    top: 285px;
+    left: 60px;
     z-index: -1;
     opacity: 0.6    ;
 
