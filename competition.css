@@ -13,7 +13,7 @@ body{
         height: 585px;
         top: 0px;
         left: 0px;
-        background-color: black;
+        background-color: red;
 
 }
 
@@ -22,7 +22,7 @@ body{
         height: 585px;
         top: 0px;
         left: 631px;
-        background-color: black;
+        background-color: blue;
 }
 
 #source3{
@@ -30,7 +30,7 @@ body{
         height: 585px;
         top: 585px;
         left: 0px;
-        background-color: black;
+        background-color: green;
 }
 
 
@@ -39,5 +39,5 @@ body{
         height: 585px;
         top: 585px;
         left: 631px;
-        background-color: black; 
+        background-color: black;
 }
