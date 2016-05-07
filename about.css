@@ -42,9 +42,9 @@ body{
     position: absolute;
     color: white;
     font-family: Alien;
-    font-size: 45px;
+    font-size: 50px;
     text-align: center;
-    top: 100px;
+    top: 110px;
     padding-left: 30px;
     padding-right: 30px;
     z-index: 0;
@@ -55,9 +55,9 @@ body{
     position: absolute;
     color: white;
     font-family: Alien;
-    font-size: 25px;
+    font-size: 35px;
     text-align: center;
-    top: 140px;
+    top: 180px;
     padding-left: 30px;
     padding-right: 30px;
     z-index: 0;
