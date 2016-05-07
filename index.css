@@ -46,3 +46,10 @@ body {
     font-size: 35px;
 
  }
+
+ #panther{
+    position: relative;
+    top: 1000px;
+    right: 250px;
+
+ }
