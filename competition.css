@@ -14,7 +14,7 @@ body{
         height: 585px;
         top: 0px;
         left: 0px;
-        background-color: red;
+        background-color: #FFD700;
         z-index: -1;
 
 }
@@ -25,7 +25,7 @@ body{
         height: 585px;
         top: 0px;
         left: 631px;
-        background-color: blue;
+        background-color: black;
         z-index: -1;
 }
 
@@ -35,7 +35,7 @@ body{
         height: 585px;
         top: 585px;
         left: 0px;
-        background-color: green;
+        background-color: #FFD700;
         z-index: -1;
 }
 
