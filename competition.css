@@ -1,0 +1,48 @@
+#source1{
+
+        position: absolute;
+        width: 631px;
+        height: 1170px;
+        top: 0px;
+        left: 0px;
+        background-color: #e6ac00;
+        z-index: -1;
+        text-align: center;
+
+}
+
+#source2{
+        position: absolute;
+        width: 631px;
+        height: 390px;
+        top: 0px;
+        left: 631px;
+        background-color: black;
+        z-indeix: -1;
+        text-align: center;
+}
+
+
+#source3{
+        position: absolute;
+        width: 631px;
+        height: 390px;
+        top: 390px;
+        left: 631px;
+        background-color: white;
+        z-indeix: -1;
+        text-align: center;
+
+}
+
+
+#source4{
+         position: absolute;
+         width: 631px;
+         height: 390px;
+         top: 780px;
+         left: 631px;
+         background-color: black;
+         z-indeix: -1;
+         text-align: center;
+}
