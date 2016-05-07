@@ -12,7 +12,7 @@ body{
 }
 
 @font-face{
-    font-family: fragment;
+    font-family: Fragment;
     src: url(fragment.otf);
 
 }
@@ -60,7 +60,7 @@ body{
 #info1 p{
     position: absolute;
     color: white;
-    font-family: fragment; 
+    font-family: Fragment;
     font-size: 25px;
     text-align: center;
     top: 180px;
