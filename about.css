@@ -4,22 +4,25 @@ body{
     margin: 0;
 
 }
+
+@font-face{
+    font-family: Alien;
+    src: url(alien.ttf);
+
+}
+
 #walking {
 
     top:  0px;
     left:  0px;
-    border-style: solid;
-    border-width: 3px;
-    border-color: white;
+
 
 }
 #group {
     position: absolute;
     top:  585px;
     left: 631px;
-    border-style: solid;
-    border-width: 3px;
-    border-color: white;
+
 
 }
 
@@ -31,9 +34,21 @@ body{
     left: 631px;
     background-color: #002266;
     z-index: -1;
-    border-style: solid;
-    border-width: 3px;
-    border-color: white;
+
+}
+
+#info1 h2{
+    color: white;
+    font-family: Alien;
+    font-size: 25px;
+
+}
+
+#info p{
+    color: white;
+    font-family: Alien;
+    font-size: 25px;
+
 }
 
 #info2{
@@ -44,8 +59,6 @@ body{
     left: 0px;
     background-color: black;
     z-index: -1;
-    border-style: solid;
-    border-width: 3px;
-    border-color: white;
+
 
 }
