@@ -1,50 +1,15 @@
 #source1{
 
         position: absolute;
-        width: 631px;
-        height: 1170px;
-        top: 0px;
-        left: 0px;
-        background-color: #e6ac00;
+        width: 200px;
+        height: 200px;
+        top: 50px;
+        left: 50px;
+        background-color: ##002266;
         z-index: -1;
         text-align: center;
 
 }
 
-#source2{
-            position: absolute;
-            width: 633px;
-            height: 390px;
-            top: 0px;
-            right: 0px;
-            background-color: black;
-            z-index: -1;
-            text-align: center;
-
-}
-
-
-#source3{
-           position: absolute;
-           width: 633px;
-           height: 390px;
-           top: 390px;
-           right: 0px;
-           background-color: white;
-           z-index: -1;
-           text-align: center;
-
-}
-
-
-#source4{
-        position: absolute;
-        width: 633px;
-        height: 390px;
-        top: 780px;
-        left: 633px;
-        background-color: black;
-        z-index: -1;
-        text-align: center;
 
 }
