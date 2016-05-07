@@ -1,9 +1,9 @@
 
-
 @font-face{
-    font-family: Alien;
-    src: url(alien.ttf);
+    font-family: Fragment;
+    src: url(fragment.otf);
 
+}
 
 #source1{
         position: absolute;
