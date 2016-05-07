@@ -33,4 +33,12 @@ body {
     opacity: 0.6;
 
 
- }                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+ }
+ #button{
+    position: relative;
+    bottom: 50px;
+    left: 300px;
+    border-style: solid;
+
+
+ }
