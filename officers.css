@@ -15,12 +15,12 @@
 #Weeber{
 
        position: relative;
-       top: 100px;
-       left 100px;
+       top: 200px;
+       left 200px;
        z-index: 10;
        border-style: solid;
        border-color: black;
-       border-width: 3px; 
+       border-width: 3px;
 
 }
 
