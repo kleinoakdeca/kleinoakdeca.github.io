@@ -1,7 +1,7 @@
 
 
 body{
-    background-color: #505050; 
+    background-color: #505050;
 
 }
 
@@ -16,7 +16,6 @@ body{
         top: 50px;
         left: 50px;
         background-color: ##002266;
-        z-index: -1;
         text-align: center;
 
 }
