@@ -14,7 +14,8 @@ body {
 }
 #welcome{
         position: absolute;
-        text-align: center;
+        top: 200px;
+        left: 125px;
 
 }
 
