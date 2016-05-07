@@ -35,11 +35,11 @@ body {
  }
  #quote{
         position: relative;
-        top: 200px;
-        left: 190px;
+        top: 195px;
+        left: 260px;
  }
  #quote p{
     font-family: Alien;
-    font-size: 50px;
+    font-size: 35px;
 
  }
