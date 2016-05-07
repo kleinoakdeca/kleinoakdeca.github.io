@@ -23,7 +23,7 @@ body{
     height: 585px;
     top: 0px;
     left: 631px;
-    background-color: #000080;
+    background-color: #002266;
     z-index: -1;
 }
 
@@ -33,7 +33,7 @@ body{
     height: 585px;
     top: 585px;
     left: 0px;
-    background-color: #e6ac00;
+    background-color: black;
     z-index: -1;
 
 }
