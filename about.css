@@ -34,13 +34,15 @@ body{
     left: 631px;
     background-color: #002266;
     z-index: -1;
+    text-align: center;
 
 }
 
 #info1 h2{
     color: white;
     font-family: Alien;
-    font-size: 25px;
+    font-size: 45px;
+    text-align: center;
 
 }
 
@@ -48,6 +50,7 @@ body{
     color: white;
     font-family: Alien;
     font-size: 25px;
+    text-align: center;
 
 }
 
