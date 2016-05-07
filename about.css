@@ -39,20 +39,27 @@ body{
 }
 
 #info1 h2{
+    position: absolute;
     color: white;
     font-family: Alien;
     font-size: 45px;
     text-align: center;
     top: 100px;
+    padding-left: 30px;
+    padding-right: 30px;
+    z-index: 0;
 
 }
 
 #info p{
     color: white;
     font-family: Alien;
-    font-size: 25px;
+    font-size: 35px;
     text-align: center;
-    top: 150px;     
+    top: 150px;
+    padding-left: 30px;
+    padding-right: 30px;
+    z-index: 0;
 
 }
 
