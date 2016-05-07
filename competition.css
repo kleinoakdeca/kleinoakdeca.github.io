@@ -179,5 +179,7 @@
         height: 50px;
         font-color: white;
         text-align: center;
+        vertical-align: middle;
+        line-height: 50px; 
 
 }
