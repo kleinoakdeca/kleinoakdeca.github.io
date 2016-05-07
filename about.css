@@ -17,3 +17,20 @@ body{
 
 }
 
+#info1{
+    width: 631px;
+    height: 585px;
+    top: 0px;
+    left: 631px;
+    color: #000080;
+
+}
+
+#info2{
+    width: 631px;
+    height: 585px;
+    top: 585px;
+    left: 0px;
+    color: #e6ac00;
+
+}
