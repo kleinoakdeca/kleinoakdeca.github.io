@@ -35,7 +35,7 @@ body{
         height: 585px;
         top: 585px;
         left: 0px;
-        background-color: #FFD700;
+        background-color: black; 
         z-index: -1;
 }
 
@@ -46,6 +46,6 @@ body{
         height: 585px;
         top: 585px;
         left: 631px;
-        background-color: black;
+        background-color: #FFD700;
         z-index: -1;
 }
