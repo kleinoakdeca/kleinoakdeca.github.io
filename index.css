@@ -26,11 +26,11 @@ body {
         left: 125px;
 }
  #logo{
-    position: relative;  
+    position: absolute;
     top: 267px;
     left: 75px;
     z-index: -1;
-    opacity: 0.6    ;
+    opacity: 0.6;
 
 
  }                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
