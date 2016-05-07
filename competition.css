@@ -9,35 +9,43 @@ body{
 
 
 #source1{
+        position: absolute;
         width: 631px;
         height: 585px;
         top: 0px;
         left: 0px;
         background-color: red;
+        z-index: -1;
 
 }
 
 #source2{
+        position: absolute;
         width: 631px;
         height: 585px;
         top: 0px;
         left: 631px;
         background-color: blue;
+        z-index: -1;
 }
 
 #source3{
+        position: absolute;
         width: 631px;
         height: 585px;
         top: 585px;
         left: 0px;
         background-color: green;
+        z-index: -1;
 }
 
 
 #source4{
+        position: absolute;
         width: 631px;
         height: 585px;
         top: 585px;
         left: 631px;
         background-color: black;
+        z-index: -1;
 }
