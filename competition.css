@@ -160,7 +160,7 @@
 .click1{
        position: absolute;
        top: 200px;
-       left: 100px; 
+       left: 100px;
        z-index: 10;
        height: 50px;
        width: 120px;
@@ -173,6 +173,7 @@
 
 .click1 a{
         text-decoration: none;
-        font-family: Ariel;
+        font-family: Fragment;
+        display; block;
 
 }
