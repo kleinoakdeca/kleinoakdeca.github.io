@@ -9,17 +9,35 @@ body{
 
 
 #source1{
-
-        position: absolute;
-        width: 200px;
-        height: 200px;
-        top: 50px;
-        left: 50px;
-        background-color: #002266;
-        text-align: center;
-
+        width: 631px;
+        height: 585px;
+        top: 0px;
+        left: 0px;
+        background-color: black;
 
 }
 
+#source2{
+        width: 631px;
+        height: 585px;
+        top: 0px;
+        left: 631px;
+        background-color: black;
+}
 
+#source3{
+        width: 631px;
+        height: 585px;
+        top: 585px;
+        left: 0px;
+        background-color: black;
+}
+
+
+#source4{
+        width: 631px;
+        height: 585px;
+        top: 585px;
+        left: 631px;
+        background-color: black; 
 }
